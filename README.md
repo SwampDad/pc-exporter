@@ -21,7 +21,9 @@ computer. Nothing is sent anywhere.
 
 1. Install Fabric Loader for Minecraft 1.21.1 and Fabric API.
 2. Install Cobblemon and Cobblemon PC Plus.
-3. Download `pc-exporter-0.3.0.jar` from the release.
+3. Download `pc-exporter.jar` from the permanent
+   [latest stable download](https://github.com/SwampDad/pc-exporter/releases/latest/download/pc-exporter.jar),
+   or browse the [Releases page](https://github.com/SwampDad/pc-exporter/releases).
 4. Place it in your instance's `mods` folder.
 5. Restart Minecraft.
 
@@ -80,7 +82,8 @@ groups to the client. It is retained for schema stability and may be removed in 
 
 ## Checksum
 
-SHA-256 of `pc-exporter-0.3.0.jar`:
+SHA-256 of `pc-exporter-0.3.0.jar` and the byte-identical stable alias
+`pc-exporter.jar`:
 
 ```
 fcc298a727003a62c0818b6b63f9fa592f90aabe80e79b10944d1b7906261c30
